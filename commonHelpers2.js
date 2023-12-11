@@ -1,4 +1,4 @@
-import"./assets/modulepreload-polyfill-ec808ebb.js";/* empty css                      */const m=`<form class="feedback-form" autocomplete="off">
+import"./assets/modulepreload-polyfill-ec808ebb.js";const m=`<form class="feedback-form" autocomplete="off">
   <label>
     Email
     <input type="email" name="email" autofocus />
