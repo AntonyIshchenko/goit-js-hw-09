@@ -55,7 +55,7 @@ textarea {
   letter-spacing: 0.04em;
 }
 
-button {
+.feedback-form button {
   margin-top: 16px;
   min-width: 95px;
   display: flex;
@@ -75,6 +75,6 @@ button {
   letter-spacing: 0.04em;
 }
 
-button:hover {
+.feedback-form button:hover {
   background: #6c8cff;
 }
